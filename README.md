@@ -210,11 +210,11 @@ Exemplos:
 ```bash
                                           Cliente
 
-- POST /clientes - Criar um novo cliente
-- GET /clientes/{id} - Obter detalhes de um cliente
-- PUT /clientes/{id} - Atualizar informações de um cliente
-- DELETE /clientes/{id} - Remover um cliente
-- GET /clientes - Listar todos os clientes
+POST /clientes - Criar um novo cliente
+GET /clientes/{id} - Obter detalhes de um cliente
+PUT /clientes/{id} - Atualizar informações de um cliente
+DELETE /clientes/{id} - Remover um cliente
+GET /clientes - Listar todos os clientes
 ``` 
 ```bash
                                           Conta
